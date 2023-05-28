@@ -24,7 +24,7 @@
       },
       {
         "title": "Melon Playground Mod 2",
-        "image": "https://raw.githubusercontent.com/AdsGame/MelonPlaygroundMinecraft/main/2.png"
+        "image": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/5.png"
       },
       {
         "title": "Melon Playground Mod 3",
@@ -189,9 +189,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/My_SingingMonsters.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/My-Singing-Monsters.jpg",
-        "text": "My Singing Monsters",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/Zolphuis%E2%80%8B.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/5.png",
+        "text": "zolphius",
         "isNative": "false"
       },
       {
