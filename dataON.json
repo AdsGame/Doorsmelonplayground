@@ -14,7 +14,6 @@
         "BannerFacebook": "IMG_16_9_APP_INSTALL#561789225838007_561790029171260",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#561789225838007_561790305837899",
         "NativeFacebook": "IMG_16_9_APP_INSTALL#561789225838007_561790542504542"
-
      }
     ],
 
@@ -89,7 +88,7 @@
         "text_size": "20",
         "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/BIGhouse.zip",
         "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/1.png",
-        "text": "EARTH WUBBOX",
+        "text": "big house",
         "isNative": "false"
       },
       {
@@ -98,9 +97,9 @@
         "gravity": "left",
         "left": "5",
         "text_size": "25",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/Undertale_the_fallen_child.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/Undertale.webp",
-        "text": "Undertale",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/796b5eee03df9a8d40d1c830208f816d154038.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/2.png",
+        "text": "big house",
         "isNative": "true"
       },
       {
@@ -109,9 +108,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/MTF.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/MTF.webp",
-        "text": "MTF",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods2/big%20houselotuckxnpby.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/3.png",
+        "text": "big house",
         "isNative": "false"
        },
        {
@@ -120,9 +119,9 @@
         "gravity": "left",
         "left": "10",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/VHS_Sans_mod.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/VHS-Sans.webp",
-        "text": "VHS Sans",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods2/boevoi_hous%E2%80%8Bsvr5tjhegtc.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/4.png",
+        "text": "fighting house",
         "isNative": "false"
       }
     ],
