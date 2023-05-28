@@ -87,8 +87,8 @@
         "gravity": "left",
         "left": "5",
         "text_size": "20",
-        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/earth_wubbox.zip",
-        "image_link": "https://melmod.com/wp-content/uploads/2023/01/EARTH-WUBBOX.webp",
+        "isLink": "true","link_title": "Download ZIP","setLink": "https://d2.melmod.com/mods/BIGhouse.zip",
+        "image_link": "https://raw.githubusercontent.com/AdsGame/Uplodefile/main/how%20toplay/1.png",
         "text": "EARTH WUBBOX",
         "isNative": "false"
       },
